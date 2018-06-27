@@ -1,2 +1,2 @@
 # ICES2016
-Integrated ecosystem  model of Icelandic waters
+Presentation on integrated ecosystem  model of Icelandic waters at the ICES conference in Riga 2016.
